@@ -77,7 +77,6 @@ target/
 
 # exclude data from source control by defaults
 *.csv
-*.json
 
 # Mac OS-specific storage files
 .DS_Store
